@@ -27,7 +27,7 @@ Repository này được chia thành 3 phần chính: Các bài Lab thực hành
 
 | Thư mục | Nội dung đã làm | Trạng thái |
 |:---|:---|:---:|
-| **[`Challenge1/`](./Challenge1)** | **Challenge 1** <br> *Xử lý dữ liệu và xây dựng mô hình cơ bản.* | Đã hoàn thành |
+| **[`Challenge1/`](./Challenge1)** | **Challenge 1** <br> *Eda, Xử lý dữ liệu và xây dựng mô hình cơ bản.* | Đã hoàn thành |
 | **[`Chalenge2/`](./Chalenge2)** | **Challenge 2** <br> *End-to-End Machine Learning Project (Xử lý, Train, Deploy).* | Đã hoàn thành |
 | **[`Challenge3/`](./Challenge3)** | **Challenge 3** <br> *End-to-End Machine Learning Project (Xử lý, Train, Deploy).* | Đã hoàn thành |
 
@@ -69,10 +69,10 @@ Quá trình làm quen với các công cụ và kỹ thuật xử lý dữ liệ
 
 ## Tiến độ
 
-- [x] Hoàn thành các bài Lab cơ bản (1-5).
-- [x] Hoàn thành bài tập về Cây quyết định & Naive Bayes.
-- [x] Hoàn thành Challenge 1.
-- [x] Hoàn thiện Challenge 2, Challenge 3 và cấu trúc Repository.
-- [x] Tóm tắt sách với tiến độ chapter 14 sau đó thực hành các challenge.
+-  Hoàn thành các bài Lab cơ bản (1-5).
+-  Hoàn thành bài tập về Cây quyết định & Naive Bayes.
+-  Hoàn thành Challenge 1.
+-  Hoàn thiện Challenge 2, Challenge 3 và cấu trúc Repository.
+-  Tóm tắt sách với tiến độ chapter 14 sau đó thực hành các challenge.
 ---
 *Cảm ơn thầy Đỗ Như Tài đã hướng dẫn tận tình trong suốt khóa học.*
