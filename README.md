@@ -1,4 +1,4 @@
-# 🎓 Nhập môn Máy học (Introduction to Machine Learning)
+# Nhập môn Máy học (Introduction to Machine Learning)
 
 > **Repository tổng hợp các bài tập cá nhân, và các challenges (những gì đã làm, đóng góp trong các challenge)**
 
