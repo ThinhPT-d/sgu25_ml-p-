@@ -46,9 +46,9 @@ Quá trình làm quen với các công cụ và kỹ thuật xử lý dữ liệ
 
 * **[`Lab1/`](./Lab1)**: **Python Basics** - Ôn tập lập trình Python cho Data Science.
 * **[`Lab2/`](./Lab2)**: **Libraries** - Làm quen với Numpy, Pandas.
-* **[`Lab3/`](./Lab3)**: **Kaggle Intro** - Cách sử dụng Kaggle và submit bài toán đầu tiên.
+* **[`Lab3/`](./Lab3)**: **Kaggle Intro** - Làm quen với Kaggle và submit bài toán đầu tiên.
 * **[`Lab4/`](./Lab4)**: **EDA** - Phân tích khám phá dữ liệu (Exploratory Data Analysis) trên tập dữ liệu mua sắm siêu thị.
-* **[`Lab5/`](./Lab5)**: **Reporting** - Kỹ năng viết báo cáo và trình bày kết quả phân tích.
+* **[`Lab5/`](./Lab5)**: **Chart** - Trực quan hóa trên các dữ liệu online retail, diabetes, wine quality-red .
 
 ---
 
