@@ -75,4 +75,4 @@ Quá trình làm quen với các công cụ và kỹ thuật xử lý dữ liệ
 -  Hoàn thiện Challenge 2, Challenge 3 và cấu trúc Repository.
 -  Tóm tắt sách với tiến độ chapter 14 sau đó thực hành các challenge.
 ---
-*Cảm ơn thầy Đỗ Như Tài đã hướng dẫn tận tình trong suốt khóa học.*
+*Cảm ơn thầy Đỗ Như Tài đã hướng dẫn tận tình trong quá trình học.*
